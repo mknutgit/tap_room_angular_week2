@@ -1,0 +1,21 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "AndrewTelleria <atelleria08@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "https://github.com/AndrewTelleria/JS_Skeleton",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
